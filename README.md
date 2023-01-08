@@ -1,3 +1,6 @@
+
+## Avoiding API Key Exposures: The Importance of Strong Fundamentals and the Limitations of AI
+
 There is no denying that OpenAI is currently one of the hottest topics in the tech industry, with many individuals and organizations eager to get in on the action and leverage the powerful tools and platforms that it has to offer. However, it seems that this rush to use OpenAI has also led to an increase in the number of instances where secrets and sensitive information have been accidentally leaked due to poor coding practices.
 
 It is important to note that this is not necessarily the fault of the OpenAI team itself, but rather the result of inexperienced code writers who are not fully aware of the consequences of their actions. These individuals may be rushing to use the latest tools and technologies without fully understanding the risks and best practices associated with handling sensitive data and resources.
@@ -13,3 +16,5 @@ In short, exposing API keys publicly online is a major security risk that can ha
 As a security researcher, I have discovered a number of API keys and secrets that are publicly available online. It is likely that these have also been noticed by malicious individuals. It is important to ensure that sensitive information, including API keys, is kept secure to prevent unauthorized access.
 
 ![secrets](https://user-images.githubusercontent.com/12201893/211204897-72ec3647-9b86-4878-a74d-78efe17d6456.png)
+
+[Github](https://github.com/tg12)
