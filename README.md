@@ -11,3 +11,5 @@ Furthermore, exposing API keys publicly online can also potentially lead to fina
 In short, exposing API keys publicly online is a major security risk that can have serious consequences for organizations and individuals. It is important for code writers to understand the importance of secure coding practices and to take steps to ensure that sensitive information, including API keys, are kept secure at all times.
 
 As a security researcher, I have discovered a number of API keys and secrets that are publicly available online. It is likely that these have also been noticed by malicious individuals. It is important to ensure that sensitive information, including API keys, is kept secure to prevent unauthorized access.
+
+![secrets](https://user-images.githubusercontent.com/12201893/211204897-72ec3647-9b86-4878-a74d-78efe17d6456.png)
