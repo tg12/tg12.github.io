@@ -18,3 +18,13 @@ As a security researcher, I have discovered a number of API keys and secrets tha
 ![secrets](https://user-images.githubusercontent.com/12201893/211204897-72ec3647-9b86-4878-a74d-78efe17d6456.png)
 
 [Github](https://github.com/tg12)
+
+## Support
+
+If you find this project useful, consider supporting it:
+
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
+| **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
+| **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
